@@ -1,7 +1,7 @@
 Tinyruby
 ========
 
-For a course in the University we have as a homework the task to implement 
+For a course[1] in the University we have as a homework the task to implement 
 a small subset of the Ruby language with support of the most typical features
 of imperative languages plus some additionals features of OOP (like classes 
 defintion and object creation but no inheritance, neither polimorfism).
@@ -12,7 +12,7 @@ Probably FAQ
 ============
 
 * If not finished and also fails in some cases, why you bother to upload it here?
-  I've decided to upload it to github because I think there are lot's of people 
+  I've decided to upload it to github because I think there are lots of people 
   that can or wants to create a interpreter and I think our code can be a good start.
 
 * The code is ugly and you use don't know a piece of C, why you show us that?
@@ -32,3 +32,8 @@ Authors
 
 * Andrés Moreira
 * Fernando Carriquiry
+
+References
+==========
+
+1. http://www.fing.edu.uy/inco/cursos/compil/
