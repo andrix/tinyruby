@@ -1,0 +1,34 @@
+Tinyruby
+========
+
+For a course in the University we have as a homework the task to implement 
+a small subset of the Ruby language with support of the most typical features
+of imperative languages plus some additionals features of OOP (like classes 
+defintion and object creation but no inheritance, neither polimorfism).
+
+Tinyruby borns there, a very small and not finished (yet) ruby interpreter. 
+
+Probably FAQ
+============
+
+* If not finished and also fails in some cases, why you bother to upload it here?
+  I've decided to upload it to github because I think there are lot's of people 
+  that can or wants to create a interpreter and I think our code can be a good start.
+
+* The code is ugly and you use don't know a piece of C, why you show us that?
+  Probably you're right, the code is not so elegant and should have many errors.
+  I know more C than my team mate, so difficult to get used in a few weeks. 
+  I think the same reason above is valid here, I think and I believe show what you
+  do is better than don't, it's just a matter of principles.
+
+* Will this project continue or just will be another dead one?
+  I really have a lot of fun doing it, but working full time and taking care of a 
+  family give me very little time to play with. Anyway, I hope to add time to time
+  a new feature, at least, fix all the bugs and improve what we reached.
+  
+
+Authors
+=======
+
+* Andrés Moreira
+* Fernando Carriquiry
